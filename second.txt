@@ -1,1 +1,2 @@
 working in second for remote from smartgit
+updated second.txt
