@@ -3,3 +3,4 @@ hello world
 updated for ff using smartgit
 
 new commit for merge commit
+update for rebase from terminal in demorebase branch
