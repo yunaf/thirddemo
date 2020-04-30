@@ -1,3 +1,4 @@
 working in second for remote from smartgit
 updated second.txt
 new commit for merge commit
+updated for rebase from terminal
